@@ -12,6 +12,7 @@ Nos tópicos de introdução ao curso de Azure, foram levantados alguns temas co
 - Nuvens Publicas (Organização paga apenas o que consumir, o responsavel é o provedor)
 - Nuvens Privadas (Responsabilidade da organização)
 - Nuvens Hibridas (Cria uma cominicação entre as nuvens privadas e públicas)
+
 *Também existe o modelo multicloud, mas não foi um tópico muito abordado pois não cai na prova da certificação*
 
 ### CapEx e OpEx
